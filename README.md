@@ -1,3 +1,5 @@
+> 🔗 **Component of [Sector Command Live](https://github.com/cameroncc333/sector-command-live)** — a production-deployed autonomous trading system running live every trading day. This repo supplies the **momentum/mean-reversion corroboration signal** that agrees or disagrees with the RL ensemble pick. **[Live Dashboard →](https://sector-command-live.vercel.app)**
+
 # Algorithmic Trading System: Cross-Sectional Sector Rotation via Composite Factor Scoring
 
 > **Can a systematic, rules-based allocation model using relative momentum, mean-reversion, and risk-adjusted return signals generate statistically significant alpha over a passive S&P 500 benchmark — net of transaction costs, with realistic risk constraints?**
